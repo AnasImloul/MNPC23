@@ -1,15 +1,10 @@
 #include <iostream>
 #include <vector>
 #include <unordered_set>
-#include <bitset>
-#include <algorithm>
 
 typedef long long ll;
 
 using namespace std;
-
-const int N = 1 << 23;
-const int MASK = N - 1;
 
 ll comb[54][54];
 
