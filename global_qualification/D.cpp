@@ -4,14 +4,6 @@
 
 using namespace std;
 
-void processQueries(string& S, const vector<vector<string>>& queries) {
-    for (const auto& query : queries) {
-        int queryType = stoi(query[0]);
-
-
-    }
-}
-
 int main() {
     string S;
     cin >> S;
